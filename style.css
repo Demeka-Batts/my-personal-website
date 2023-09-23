@@ -2,6 +2,11 @@
     margin: 0;
     padding: 0;
 }
+.wrapper {
+    margin: 0 auto;
+    width: 1000px;
+}
+
 
 body {
    
@@ -15,10 +20,16 @@ nav {
     background-color: rgb(112, 72, 72);
 
 }
-ul {
-
+body::after {
 
 }
+
+.image { 
+    
+       
+        
+    }
+
 
 ul li  {
 list-style: none;
