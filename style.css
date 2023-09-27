@@ -23,12 +23,10 @@ nav {
 body::after {
 
 }
+.img-my-photo {
+    float: left;
+}
 
-.image { 
-    
-       
-        
-    }
 
 
 ul li  {
